@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/weatherfullwebsite/static/css/main.1d74c407.css",
+    "main.js": "/weatherfullwebsite/static/js/main.2758c95f.js",
+    "static/media/Pexels Videos 2811.mp4": "/weatherfullwebsite/static/media/Pexels Videos 2811.66c4b05ec926db28f7ed.mp4",
+    "static/media/pexels-guillaume-meurice-1591447 (1).jpg": "/weatherfullwebsite/static/media/pexels-guillaume-meurice-1591447 (1).644d3133a49e9c3abce6.jpg",
+    "static/media/pexels-pixabay-162389.jpg": "/weatherfullwebsite/static/media/pexels-pixabay-162389.a357f373670545f2f707.jpg",
+    "static/media/logo.svg": "/weatherfullwebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/weatherfullwebsite/index.html",
+    "main.1d74c407.css.map": "/weatherfullwebsite/static/css/main.1d74c407.css.map",
+    "main.2758c95f.js.map": "/weatherfullwebsite/static/js/main.2758c95f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d74c407.css",
+    "static/js/main.2758c95f.js"
+  ]
+}
